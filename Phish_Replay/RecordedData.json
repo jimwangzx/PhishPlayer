@@ -1,0 +1,11 @@
+{"url":"http://www.papa-aura.rumahweb.org/recovery-chekpoint-login-1.html",
+"pages":
+[{"formId":"","values":[{"name":"email","tag":"INPUT","type":"text","value":"JaneDoe@gmail.com"},{"name":"pass","tag":"INPUT","type":"password","value":"WrongPass@234"}]},
+{"formId":"","values":[{"name":"firstName","tag":"INPUT","type":"text","value":"Jane Doe"},{"name":"security_question","tag":"SELECT","type":"null","value":"What is your name first grade teacher?"},{"name":"security_answer","tag":"INPUT","type":"text","value":"Shiela"}]},
+{"formId":"","values":[
+{"name":"creditCardNumber","tag":"INPUT","type":"text","value":"1234456778901234"},{"name":"month","tag":"SELECT","type":"null","value":"1"},{"name":"year","tag":"SELECT","type":"null","value":"2019"},{"name":"csc","tag":"INPUT","type":"text","value":"345"},
+{"name":"firstName","tag":"INPUT","type":"text","value":"Jane Doe"},{"name":"zip","tag":"INPUT","type":"text","value":"30921"},{"name":"country","tag":"SELECT","type":"null","value":"United States"}]},
+{"formId":"","values":[
+{"name":"street","tag":"INPUT","type":"text","value":"private drive"},{"name":"city","tag":"INPUT","type":"text","value":"newyork"},{"name":"zip","tag":"INPUT","type":"text","value":"45567"},{"name":"country","tag":"SELECT","type":"null","value":"United States"},
+{"name":"firstName","tag":"INPUT","type":"text","value":"Jane Doe"},{"name":"creditCardNumber","tag":"INPUT","type":"text","value":"1234456778923456"},{"name":"month","tag":"SELECT","type":"null","value":"1"},{"name":"year","tag":"SELECT","type":"null","value":"2019"},{"name":"csc","tag":"INPUT","type":"text","value":"345"}]}
+]}
